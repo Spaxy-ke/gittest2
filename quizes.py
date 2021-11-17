@@ -19,7 +19,7 @@ n= eval(input('input a number:'))
 print('the square of',n,'is',n*n,sep=' ',end='')
 print('.',sep='')
 print('quize 6:')
-'''Ask the user to enter a number x . Use the sep optional argument to print out x , 2x , 3x , 4x ,
+'''Ask the user to enter a number x . Use the sep optionalv  argument to print out x , 2x , 3x , 4x ,
 and 5x , each separated by three dashes'''
 m= eval(input('enter a number:'))
 print(m,2*m,3*m,4*m,5*m, sep='___')
